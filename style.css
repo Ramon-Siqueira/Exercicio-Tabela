@@ -1,0 +1,41 @@
+h1 {
+    text-align: center;
+    margin-bottom: 50px;
+    font-size: 35px;
+}
+
+h2 {
+    font-size: 20px;
+}
+
+.cabecalho-moda {
+    background-color: #bb86fc;
+    color: aliceblue;
+    padding: 7px;
+    font-size: 15px;
+}
+
+.cabecalho-casa {
+    background-color: #00c4b4;
+    color: aliceblue;
+    padding: 7px;
+    font-size: 15px;
+}
+
+.produto-tamanho-valor {
+    background-color: #424250;
+    color: aliceblue;
+    padding: 7px;
+    font-size: 15px;
+}
+
+.cabecalho-roupa {
+    background-color: #bb86fc;
+    color: aliceblue;
+    padding: 7px;
+    font-size: 15px;
+}
+
+td {
+    text-align: center;
+}
